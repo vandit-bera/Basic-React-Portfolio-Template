@@ -7,9 +7,9 @@ function Footer() {
                     <div className="col-lg-4 mb-5 mb-lg-0">
                         <h4 className="text-uppercase mb-4">Location</h4>
                         <p className="lead mb-0">
-                            2215 John Daniel Drive
+                            Dhoraji, Gujarat
                             <br />
-                            Clark, MO 65243
+                            India - 360410
                         </p>
                     </div>
                     {/* <!-- Footer Social Icons--> */}
@@ -22,10 +22,10 @@ function Footer() {
                     </div>
                     {/* <!-- Footer About Text--> */}
                     <div className="col-lg-4">
-                        <h4 className="text-uppercase mb-4">About Freelancer</h4>
+                        <h4 className="text-uppercase mb-4">About Project</h4>
                         <p className="lead mb-0">
-                            Freelance is a free to use, MIT licensed Bootstrap theme created by
-                            <a href="http://startbootstrap.com">Start Bootstrap</a>
+                            ReactJS and Bootstrap theme created by
+                            Vandit Bera
                             .
                         </p>
                     </div>
