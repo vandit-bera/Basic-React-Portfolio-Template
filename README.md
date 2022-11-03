@@ -19,9 +19,11 @@
   <p align="center">   
     <a href="https://vb-basic-react-portfolio-template.vercel.app/">View Live Demo</a>
   </p>
+
+  <img src="./ss/REACTJS.jpg" width="100%">
 </div>
 
-![ReactJS](./ss/REACTJS.jpg)
+
 
 <!-- ABOUT THE PROJECT -->
 
