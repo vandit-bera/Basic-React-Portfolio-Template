@@ -1,5 +1,5 @@
 <!-- Intro -->
-# All About JavaScript
+# All About ReactJS
 
 <!-- Social Links -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
