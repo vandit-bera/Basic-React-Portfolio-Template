@@ -50,7 +50,7 @@ Here's a Screen-Shot of my project and I learnt Most of my usefull Future of Jav
 
 1. HTML
 2. Bootstrap
-3. JavaScript
+3. ReactJS
 
 
 <br>
